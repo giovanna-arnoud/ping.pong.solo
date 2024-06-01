@@ -1,4 +1,4 @@
-# ping.pong.solo
+# ping.pong.solo 🏓👤
 
 🇧🇷 - A tela inicial é preta, com dois placares: um vermelho para a sua pontuação e um azul para a pontuação do adversário. Trata-se de um jogo simples e muito conhecido, o ping pong. Você, usuário, deve controlar a raquete branca à esquerda usando as setas para cima e para baixo para se movimentar. Para reiniciar a página e o jogo, pressione F5 ou CTRL+R :)
 
